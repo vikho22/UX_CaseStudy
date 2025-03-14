@@ -21,7 +21,7 @@ Logotipo:
 
 Miembros:
  * :bust_in_silhouette:  Jorge Ródenas Samaniego     :octocat:    https://github.com/JorgeRodenas  
- * :bust_in_silhouette:  Juan Carlos Vílchez Muñoz     :octocat:
+ * :bust_in_silhouette:  Juan Carlos Vílchez Muñoz     :octocat:    https://github.com/vikho22
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
