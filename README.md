@@ -74,10 +74,8 @@ Antonio Sánchez es un señor de 68 viudo que quiere aprender a cocinar para pod
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.
 En este Journey Map, Xoaquin reserva al límite uno de los cursos de la web y además al llegar se da cuenta de que se ha olvidado parte del material necesario.
->>> ![Xoaquin Lopez](P1/JourneyMapXoaquin.png)
+ ![Xoaquin Lopez](P1/JourneyMapXoaquin.png)
 
 
 ### 1.e Usability Review
