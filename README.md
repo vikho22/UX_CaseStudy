@@ -75,7 +75,10 @@ Antonio Sánchez es un señor de 68 viudo que quiere aprender a cocinar para pod
 ![Método UX](img/JourneyMap.png) 
 ----
 En este Journey Map, Xoaquin reserva al límite uno de los cursos de la web y además al llegar se da cuenta de que se ha olvidado parte del material necesario.
- ![Xoaquin Lopez](P1/JourneyMapXoaquin.png)
+![Xoaquin Lopez](P1/JourneyMapXoaquin.png)
+
+En este Journey Map se representan las dificultades que puede tener una persona de edad avanzada para utilizar la tecnologia con el fin de hacer una reserva.
+![Antonio Sánchez](P1/JourneyMapAntonio.png)
 
 
 ### 1.e Usability Review
