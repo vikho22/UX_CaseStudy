@@ -48,13 +48,16 @@ Partiendo de una experiencia nula en este campo, y habiendo investigado en difer
 
 Una vez rediseñado el modelo con los datos obtenidos en el estudio, volveríamos a hacer una prueba del diseño con otro grupo de usuarios para matizar los fallos y dificultades que puedan persistir.
   
-
-
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+- Gestion de usuarios
+- Información sobre la ubicación
+- Soporte y asistencia
+- Calendario de eventos
+- Precios
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Hemos escogido la gestión de usuarios como característica a evaluar, porque consideramos importante que el usuario pueda tener la comodidad de poder gestionar las reservas de manera sencilla.
 
 
 ### 1.c Personas
