@@ -44,7 +44,10 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Partiendo de una experiencia nula en este campo, y habiendo investigado en diferentes artículos relacionados al tema, podríamos abordar la investigación mediante entrevistas a diferentes personas que podría estar interesadas en acudir al establecimiento para poder comprender por qué los usuarios hacen lo que hacen, mediante las cuales podríamos obtener información de cuáles son las necesidades y preferencias de los usuarios, para poder poner en práctica algunas de estas y encontrar posibles fallos o dificultades en el diseño con el fin de conseguir una experiencia más sencilla para el usuario. También podríamos hacer una prueba con un número reducido de usuarios sobre un diseño, para estudiar las preferencias y la facilidad de uso de los usuarios, con el fin de hacer un diseño más simple y eficaz. 
+
+Una vez rediseñado el modelo con los datos obtenidos en el estudio, volveríamos a hacer una prueba del diseño con otro grupo de usuarios para matizar los fallos y dificultades que puedan persistir.
+  
 
 
 ### 1.b Competitive Analysis
