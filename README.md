@@ -66,8 +66,8 @@ Hemos escogido la gestión de usuarios como característica a evaluar, porque co
 Xoaquin López es un estudiante de Cocina en la Universidad de Granada que activamente participa en cursos que proporciona nuestra página web
 
 ![Xoaquin Lopez](P1/PersonaXoaquin.png)
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
+![Antonio Sánchez](P1/PersonaAntonio.png)
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
