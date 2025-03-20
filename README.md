@@ -63,9 +63,11 @@ Hemos escogido la gestión de usuarios como característica a evaluar, porque co
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
-Xoaquin López es un estudiante de Cocina en la Universidad de Granada que activamente participa en cursos que proporciona nuestra página web
+Xoaquin López es un estudiante de Cocina en la Universidad de Granada que activamente participa en cursos que proporciona nuestra página web.
 
 ![Xoaquin Lopez](P1/PersonaXoaquin.png)
+
+Antonio Sánchez es un señor de 68 viudo que quiere aprender a cocinar para poder ser más autosificiente después de la perdida de su mujer.
 
 ![Antonio Sánchez](P1/PersonaAntonio.png)
 
