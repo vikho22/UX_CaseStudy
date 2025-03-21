@@ -28,6 +28,7 @@ Xoaquin López es un estudiante de Cocina en la Universidad de Granada que activ
 
 Antonio Sánchez es un señor de 68 viudo que quiere aprender a cocinar para poder ser más autosificiente después de la perdida de su mujer.
 
+![Antonio Sánchez](PersonaAntonio.png)
 
 - 2 User Journey Map  ( 1 por persona)
 
@@ -42,5 +43,9 @@ En este Journey Map se representan las dificultades que puede tener una persona 
 - Revisión de Usabilidad 
 
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+![Usability Review](Usability-review-template.xls)
+
+#### Briefing
+Tras un estudio sobre la página web “GranadaCooking.com”, hemos detectado que es una página muy completa, con multitud de opciones que facilitan la experiencia del usuario. Entre estas opciones destacan el sistema de reservas y el calendario interactivo, que informa a los usuarios sobre los talleres más próximos. Además, cuenta con un sistema de preguntas frecuentes (FAQ) para resolver dudas sobre el funcionamiento del sitio y proporciona información precisa sobre la ubicación del lugar en la parte inferior de la página.
+En cuanto a la navegación, es bastante intuitiva, ya que en todo momento indica en qué submenú te encuentras y dispone de una interfaz clara que permite a todo tipo de usuarios manejarse correctamente.
+Sin embargo, el sistema de búsqueda no es muy intuitivo y podría mejorarse para ofrecer una mejor experiencia de navegación. También sería beneficioso implementar un sistema de retroalimentación (feedback) donde los usuarios que han realizado alguno de los cursos puedan dar su opinión y sugerir mejoras.
