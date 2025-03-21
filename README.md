@@ -65,10 +65,12 @@ Hemos escogido la gestión de usuarios como característica a evaluar, porque co
 ![Método UX](img/Persona.png) 
 -----
 Xoaquin López es un estudiante de Cocina en la Universidad de Granada que activamente participa en cursos que proporciona nuestra página web.
+Es un modelo ideal para que nos aporte una versión moderna y actualizada sobre la página web.
 
 ![Xoaquin Lopez](P1/PersonaXoaquin.png)
 
 Antonio Sánchez es un señor de 68 viudo que quiere aprender a cocinar para poder ser más autosificiente después de la perdida de su mujer.
+Es un modelo ideal ya que nos puede servir para extender la página web a todo tipo de públicos.
 
 ![Antonio Sánchez](P1/PersonaAntonio.png)
 
