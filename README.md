@@ -87,12 +87,7 @@ En este Journey Map se representan las dificultades que puede tener una persona 
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
->>> - 
-
+![Usability Review](P1/Usability-review-template.xls)
 
 #### Briefing
 Tras un estudio sobre la página web “GranadaCooking.com”, hemos detectado que es una página muy completa, con multitud de opciones que facilitan la experiencia del usuario. Entre estas opciones destacan el sistema de reservas y el calendario interactivo, que informa a los usuarios sobre los talleres más próximos. Además, cuenta con un sistema de preguntas frecuentes (FAQ) para resolver dudas sobre el funcionamiento del sitio y proporciona información precisa sobre la ubicación del lugar en la parte inferior de la página.
