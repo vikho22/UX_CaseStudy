@@ -88,7 +88,7 @@ En este Journey Map se representan las dificultades que puede tener una persona 
 ![Método UX](img/usabilityReview.png) 
 ----
 
-![Usability Review](P1/Usability-review-template.xls)
+![Usability Review](P1/UsabilityReview.xls)
 
 #### Briefing
 Tras un estudio sobre la página web “GranadaCooking.com”, hemos detectado que es una página muy completa, con multitud de opciones que facilitan la experiencia del usuario. Entre estas opciones destacan el sistema de reservas y el calendario interactivo, que informa a los usuarios sobre los talleres más próximos. Además, cuenta con un sistema de preguntas frecuentes (FAQ) para resolver dudas sobre el funcionamiento del sitio y proporciona información precisa sobre la ubicación del lugar en la parte inferior de la página.
