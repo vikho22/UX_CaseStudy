@@ -57,6 +57,8 @@ Una vez rediseñado el modelo con los datos obtenidos en el estudio, volveríamo
 - Calendario de eventos
 - Precios
 
+![Tabla Comparativa](P1/TablaComparativa.png)
+
 Hemos escogido la gestión de usuarios como característica a evaluar, porque consideramos importante que el usuario pueda tener la comodidad de poder gestionar las reservas de manera sencilla.
 
 
@@ -89,6 +91,14 @@ En este Journey Map se representan las dificultades que puede tener una persona 
 >>> - Enlace al documento:  (xls/pdf) 
 >>> - URL y Valoración numérica obtenida: 
 >>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+>>> - 
+
+
+#### Briefing
+Tras un estudio sobre la página web “GranadaCooking.com”, hemos detectado que es una página muy completa, con multitud de opciones que facilitan la experiencia del usuario. Entre estas opciones destacan el sistema de reservas y el calendario interactivo, que informa a los usuarios sobre los talleres más próximos. Además, cuenta con un sistema de preguntas frecuentes (FAQ) para resolver dudas sobre el funcionamiento del sitio y proporciona información precisa sobre la ubicación del lugar en la parte inferior de la página.
+En cuanto a la navegación, es bastante intuitiva, ya que en todo momento indica en qué submenú te encuentras y dispone de una interfaz clara que permite a todo tipo de usuarios manejarse correctamente.
+Sin embargo, el sistema de búsqueda no es muy intuitivo y podría mejorarse para ofrecer una mejor experiencia de navegación. También sería beneficioso implementar un sistema de retroalimentación (feedback) donde los usuarios que han realizado alguno de los cursos puedan dar su opinión y sugerir mejoras.
+
 
 <br>
 
