@@ -88,6 +88,8 @@ En este Journey Map se representan las dificultades que puede tener una persona 
 ![Método UX](img/usabilityReview.png) 
 ----
 
+Valoración final Obtenida: 77 puntos
+
 ![Usability Review](P1/UsabilityReview.xls)
 
 #### Briefing
