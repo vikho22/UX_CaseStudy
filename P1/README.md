@@ -24,7 +24,7 @@ Hemos escogido la gestión de usuarios como característica a evaluar, porque co
 -----
 Xoaquin López es un estudiante de Cocina en la Universidad de Granada que activamente participa en cursos que proporciona nuestra página web.
 
-![Xoaquin Lopez](P1/PersonaXoaquin.png)
+![Xoaquin Lopez](PersonaXoaquin.png)
 
 Antonio Sánchez es un señor de 68 viudo que quiere aprender a cocinar para poder ser más autosificiente después de la perdida de su mujer.
 
@@ -33,10 +33,10 @@ Antonio Sánchez es un señor de 68 viudo que quiere aprender a cocinar para pod
 
 
 En este Journey Map, Xoaquin reserva al límite uno de los cursos de la web y además al llegar se da cuenta de que se ha olvidado parte del material necesario.
-![Xoaquin Lopez](P1/JourneyMapXoaquin.png)
+![Xoaquin Lopez](JourneyMapXoaquin.png)
 
 En este Journey Map se representan las dificultades que puede tener una persona de edad avanzada para utilizar la tecnologia con el fin de hacer una reserva.
-![Antonio Sánchez](P1/JourneyMapAntonio.png)
+![Antonio Sánchez](JourneyMapAntonio.png)
 
 
 - Revisión de Usabilidad 
