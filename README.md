@@ -57,6 +57,8 @@ Una vez rediseñado el modelo con los datos obtenidos en el estudio, volveríamo
 - Calendario de eventos
 - Precios
 
+![Tabla Comparativa](P1/TablaComparativa.png)
+
 Hemos escogido la gestión de usuarios como característica a evaluar, porque consideramos importante que el usuario pueda tener la comodidad de poder gestionar las reservas de manera sencilla.
 
 
