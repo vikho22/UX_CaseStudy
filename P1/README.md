@@ -39,6 +39,7 @@ En este Journey Map se representan las dificultades que puede tener una persona 
 
 - Revisión de Usabilidad 
 
+Valoración Obtenida: 77 puntos.
 
 ![Usability Review](UsabilityReview.xls)
 
