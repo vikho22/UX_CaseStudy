@@ -26,8 +26,7 @@ Xoaquin López es un estudiante de Cocina en la Universidad de Granada que activ
 
 ![Xoaquin Lopez](PersonaXoaquin.png)
 
-Antonio Sánchez es un señor de 68 viudo que quiere aprender a cocinar para poder ser más autosificiente después de la perdida de su mujer.
-
+Antonio Sánchez es un señor de 68 viudo que quiere aprender a cocinar para poder ser más autosuficiente después de la perdida de su mujer. Es un modelo ideal ya que nos puede servir para extender la página web a todo tipo de públicos.
 ![Antonio Sánchez](PersonaAntonio.png)
 
 - 2 User Journey Map  ( 1 por persona)
