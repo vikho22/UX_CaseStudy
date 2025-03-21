@@ -69,7 +69,7 @@ Es un modelo ideal para que nos aporte una versión moderna y actualizada sobre 
 
 ![Xoaquin Lopez](P1/PersonaXoaquin.png)
 
-Antonio Sánchez es un señor de 68 viudo que quiere aprender a cocinar para poder ser más autosificiente después de la perdida de su mujer.
+Antonio Sánchez es un señor de 68 viudo que quiere aprender a cocinar para poder ser más autosuficiente después de la perdida de su mujer.
 Es un modelo ideal ya que nos puede servir para extender la página web a todo tipo de públicos.
 
 ![Antonio Sánchez](P1/PersonaAntonio.png)
