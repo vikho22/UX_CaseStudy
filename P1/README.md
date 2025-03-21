@@ -20,7 +20,7 @@ Hemos escogido la gestión de usuarios como característica a evaluar, porque co
 - 2 Personas 
 
 
-![Método UX](img/Persona.png) 
+![Método UX](../img/Persona.png) 
 -----
 Xoaquin López es un estudiante de Cocina en la Universidad de Granada que activamente participa en cursos que proporciona nuestra página web.
 
