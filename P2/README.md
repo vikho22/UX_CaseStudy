@@ -15,6 +15,8 @@
 * User Task Matrix 
 * User/Task flow
 
+  ![Task Analysis](TaskAnalysis.png)
+
 
 ### ARQUITECTURA DE INFORMACIÓN
 
