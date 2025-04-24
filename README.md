@@ -125,7 +125,7 @@ sencilla para asegurar una buena experencia del usuario a la hora de usar la pá
 ![Método UX](img/Sitemap.png) 
 -----
 
-![Site Map](P2/SiteMap.png)
+![Site Map](P2/sitemap.png)
 
 Hemos creado un SiteMap sencillo, que permita a los usuarios ver con claridad los aspectos más importantes que ofrecemos como empresa 
 de talleres de cocina. Con respecto al modelo inicial, hemos reducido los apartados de la página principal, y además, hemos introducido
