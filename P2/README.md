@@ -1,18 +1,19 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
+* Malla receptora de información
+* 
 ![Malla receptora de informacion](feedbackCaptureGrid.png)
 
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
-* ![Scope Canvas](ScopeCanvas.png)
+  
+  ![Scope Canvas](ScopeCanvas.png)
 
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
 * User/Task flow
 
   ![Task Analysis](TaskAnalysis.png)
@@ -22,10 +23,11 @@
 
 * Sitemap
 
-![Sitemap](sitemap.png)
+  ![Sitemap](sitemap.png)
   
 * Labelling 
 
+  ![Labeling](labeling.png)
 
 ### Prototipo Lo-FI Wireframe 
 
