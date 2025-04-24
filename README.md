@@ -125,11 +125,13 @@ sencilla para asegurar una buena experencia del usuario a la hora de usar la pá
 ![Método UX](img/Sitemap.png) 
 -----
 
-![Site Map](P2/sitemap.png)
+![Task Analysis](P2/TaskAnalysis.png)
 
-Hemos creado un SiteMap sencillo, que permita a los usuarios ver con claridad los aspectos más importantes que ofrecemos como empresa 
-de talleres de cocina. Con respecto al modelo inicial, hemos reducido los apartados de la página principal, y además, hemos introducido
-un apartado donde el cliente pueda registrarse y manejar sus reservas/bonos.
+Hemos añadido las opciones principales que queremos que un usuario realice al entrar en la página.
+Estas son la consulta de talleres futuros, los cuales podrán reservar de manera sencilla.
+La otra tarea es la registro/inicio sesión, mediante la cual el usuario podrá ver sus reservas.
+
+
 
 
 
@@ -137,11 +139,12 @@ un apartado donde el cliente pueda registrarse y manejar sus reservas/bonos.
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+![Site Map](P2/sitemap.png)
+Hemos creado un SiteMap sencillo, que permita a los usuarios ver con claridad los aspectos más importantes que ofrecemos como empresa 
+de talleres de cocina. Con respecto al modelo inicial, hemos reducido los apartados de la página principal, y además, hemos introducido
+un apartado donde el cliente pueda registrarse y manejar sus reservas/bonos.
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+![Labelling](P2/Labelling.png)
 
 
 ### 2.d Wireframes
