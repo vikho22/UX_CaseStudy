@@ -110,6 +110,7 @@ Sin embargo, el sistema de búsqueda no es muy intuitivo y podría mejorarse par
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
+![Diagrama FeedBack](P2/feedbackCaptureGrid.png)
 
  Interesante | Críticas     
 | ------------- | -------
