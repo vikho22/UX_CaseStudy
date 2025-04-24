@@ -2,8 +2,7 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+![Malla receptora de informacion](feedbackCaptureGrid.png)
 
 
 ### PROPUESTA DE VALOR
