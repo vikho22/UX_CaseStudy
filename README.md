@@ -108,33 +108,29 @@ Sin embargo, el sistema de búsqueda no es muy intuitivo y podría mejorarse par
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
 ![Diagrama FeedBack](P2/feedbackCaptureGrid.png)
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+Como problema principal, observamos que falta un espacio donde el cliente pueda manerar sus reservas y ver con claridad los talleres
+disponibles próximamente (en la página principal aparecen talleres ya finalizados). Para ello, plantearemos una propuesta más clara y
+sencilla para asegurar una buena experencia del usuario a la hora de usar la página web
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
-
+![Scope Canvas](P2/ScopeCanvas.png)
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+![Site Map](P2/SiteMap.png)
+
+Hemos creado un SiteMap sencillo, que permita a los usuarios ver con claridad los aspectos más importantes que ofrecemos como empresa 
+de talleres de cocina. Con respecto al modelo inicial, hemos reducido los apartados de la página principal, y además, hemos introducido
+un apartado donde el cliente pueda registrarse y manejar sus reservas/bonos.
+
 
 
 ### 2.c IA: Sitemap + Labelling 
