@@ -27,7 +27,7 @@
   
 * Labelling 
 
-  ![Labeling](labeling.png)
+  ![Labeling](Labeling.png)
 
 ### Prototipo Lo-FI Wireframe 
 
