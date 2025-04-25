@@ -151,9 +151,11 @@ un apartado donde el cliente pueda registrarse y manejar sus reservas/bonos.
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+![PaginaPrincipal](P2/PaginaPrincipal.png)
+![Taller](P2/taller.png)
+![Registro](P2/registro.png)
+![AreaPersonal](P2/AreaPersonal.png)
 
-<br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
