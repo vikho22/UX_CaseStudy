@@ -31,6 +31,10 @@
 
 ### Prototipo Lo-FI Wireframe 
 
+![PaginaPrincipal](P2/PaginaPrincipal.png)
+![Taller](P2/taller.png)
+![Registro](P2/registro.png)
+![AreaPersonal](P2/AreaPersonal.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
