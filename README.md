@@ -194,7 +194,9 @@ Tras buscar información sobre los UI Patterns, hemos decidido usar los siguient
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+Como parte del mockup, hemos realizado el diseño hi-fi de nuestra app (realizado para el modelo iPhone 16 Pro Max). 
+Que empieza en un pantalla de carga, que al pulsar accede a la página de Inicio de nuestra aplicación. En esta página ya se ven los distintos talleres y el menú inferior presenta las distintas funcionalidades de nuestra app.
+[En este link](https://www.figma.com/proto/oNh4vmsAwtUuVXM1IU2WrM/Breakpoints--Community-?node-id=72-2222&p=f&t=wLKWuAV82ODS6u5k-0&scaling=scale-down&content-scaling=fixed&page-id=35%3A114&starting-point-node-id=72%3A2222) se puede observar el prototipo general.
 
 
 ### 3.e ¿My UX-Case Study?
