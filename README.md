@@ -175,19 +175,19 @@ Nuestra Landing Page busca captar la atención de usuarios interesados en experi
 
 Tras buscar información sobre los UI Patterns, hemos decidido usar los siguientes patrones de diseño:
 - Navegación y Contenido:
--   Barra Navegación Fija: Navegación simple sin sobrecargar y accesible en todo tipo de dispositivos
--   Carrusel + Hero Image: Reusando lo que ya tenía Granada Cooking para destacar visualmente los aspectos importantes
--   Sistema de Búqueda: Permite encontrar con facilidad los talleres según sus preferencias
+  -   Barra Navegación Fija: Navegación simple sin sobrecargar y accesible en todo tipo de dispositivos
+  -   Carrusel + Hero Image: Reusando lo que ya tenía Granada Cooking para destacar visualmente los aspectos importantes
+  -   Sistema de Búqueda: Permite encontrar con facilidad los talleres según sus preferencias
 
 - Interacción y Acciones de Usuario:
--   Reserva: Sistema que facilita la reserva de cursos y compra de bonos
--   Calendario: Usamos un calendario para indicar los próximos talleres
--   Card Layout: Para mostrar visualmente los distintos talleres de cocina
+  -   Reserva: Sistema que facilita la reserva de cursos y compra de bonos
+  -   Calendario: Usamos un calendario para indicar los próximos talleres
+  -   Card Layout: Para mostrar visualmente los distintos talleres de cocina
 
 - Comunicación y Retroalimentación:
--   Mensajes de Confirmación: Para que el usuario esté siempre consciente de su estado en la aplicación
--   About: Proporcionamos información sobre la empresa y su modelo de negocio
--   Sistema de Reseñas: Permitimos insertar reseñas para 
+  -   Mensajes de Confirmación: Para que el usuario esté siempre consciente de su estado en la aplicación
+  -   About: Proporcionamos información sobre la empresa y su modelo de negocio
+  -   Sistema de Reseñas: Permitimos insertar reseñas para 
 
 
 ### 3.d Mockup
