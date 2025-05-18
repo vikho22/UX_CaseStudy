@@ -5,15 +5,15 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU2_JCJ.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 18/05/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+GranadaCooking
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+GranadaCooking es un espacio creativo y multicultural donde personas de todas partes pueden aprender a cocinar recetas del mundo en talleres presenciales, accesibles y divertidos, guiados por chefs apasionados en el corazón de Granada.
 
 Logotipo: 
 
@@ -23,10 +23,7 @@ Miembros:
  * :bust_in_silhouette:  Jorge Ródenas Samaniego     :octocat:    https://github.com/JorgeRodenas  
  * :bust_in_silhouette:  Juan Carlos Vílchez Muñoz     :octocat:    https://github.com/vikho22
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
 ----- 
-
 
 >>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
 
@@ -102,8 +99,6 @@ Sin embargo, el sistema de búsqueda no es muy intuitivo y podría mejorarse par
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
@@ -158,9 +153,6 @@ un apartado donde el cliente pueda registrarse y manejar sus reservas/bonos.
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
