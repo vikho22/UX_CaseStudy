@@ -24,10 +24,6 @@ Miembros:
  * :bust_in_silhouette:  Juan Carlos Vílchez Muñoz     :octocat:    https://github.com/vikho22
 
 ----- 
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
 # Proceso de Diseño 
 
 <br>
