@@ -6,8 +6,6 @@
 - Users. Elección y características de los usuarios reclutados
 - Diseño de las pruebas
 - Realización del Cuestionario SUS para usuarios y casos A y B.
-- Tabla A/B Testing con resultados para A y B
-- Eye Tracking para B
 - Usability Report del Caso B, con toda la información recabada del caso B
 
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
@@ -15,3 +13,16 @@ Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-t
 
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
 >>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+
+
+## Diseño de las Pruebas
+Para este apartado, hemos usado la herramienta Maze (proporcionada por el profesor), en la que hemos incluido un primer apartado con preguntas orientadas a conocer los gustos/preferencias del usuario y un segundo bloque donde hemos preparado para que los usuarios realicen varias tareas dentro de los proyectos a estudiar. En nuestro caso, las tareas son "Realizar Registro" y "Reservar un nuevo Taller" y por otro lado, para el otro proyecto son "Realizar una publicación" y "Dar me gusta a una publicación".
+
+## Realización del Cuestionario SUS para usuarios y casos A y B
+Detallado en el siguiente [archivo](P4-Cuestionario-SUS-DIU.xlsx)
+
+## Usability Report del Caso B, con toda la información recabada del caso B
+Detallado en el siguiente [archivo](BriefingReportTipoB.pdf)
+
+## Conclusiones
+El uso de este tipo de cuestionario nos ha parecido bastante interesante y a la postre representativo para obtener una “calificación” final sobre un sitio web. Nos ha permitido entender los gustos y necesidades de los usuarios implicados para intentar mejorar los sistemas que hemos estudiado, tanto el nuestro como el de nuestros compañeros del grupo Pizza-con-curry.
