@@ -244,47 +244,18 @@ En nuestro caso, las tareas son "Realizar Registro" y "Reservar un nuevo Taller"
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
-### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
-
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+En general, la página es fácil de usar, bastante clara y sencilla. Al ser una página sobre un tema muy específico, el número de usuarios es reducido, pero para los que sí se interesen en este tema tendrán una buena experiencia en general.
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
+Como puntos negativos podríamos destacar que carece de un sistema de registro e inicio de sesión, lo cual podría ser beneficioso para aquellos que quieran publicar varios artículos y gestionarlos, en vez de introducir sus datos personales cada vez que quiera realizar un post. Además, el menú lateral se ve pobre, incluyendo solo la opción para filtrar el orden en el que aparecen las publicaciones y el contador.
 
 
-<br>
-
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+El uso de este tipo de cuestionario nos ha parecido bastante interesante y a la postre representativo para obtener una “calificación” final sobre un sitio web. Nos ha permitido entender los gustos y necesidades de los usuarios implicados para intentar mejorar los sistemas que hemos estudiado, tanto el nuestro como el de nuestros compañeros del grupo Pizza-con-curry.
 
 
 <br>
