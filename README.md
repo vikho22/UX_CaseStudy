@@ -234,15 +234,8 @@ En nuestro caso, las tareas son "Realizar Registro" y "Reservar un nuevo Taller"
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). 
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
-
-
-### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
------
-
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+En este [archivo](P4/P4-Cuestionario-SUS-DIU) se ve el Excel con las puntuaciones obtenidas.
+Vemos, que por una ligera ventaja, el Caso A les ha parecido más usable a los usuarios seleccionados para realizar el estudio.
 
 
 
