@@ -199,8 +199,7 @@ Que empieza en un pantalla de carga, que al pulsar accede a la página de Inicio
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+
 
 <br>
 
@@ -210,24 +209,24 @@ Que empieza en un pantalla de carga, que al pulsar accede a la página de Inicio
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+El caso que se nos ha asignado es el de nuestros compañeros de [Pizza Con Curry](https://github.com/DIU3-Pizza-con-Curry/UX_CaseStudy). Su proyecto consiste en una aplicación centrada en el reciclado y reutilización de prendas de ropa.
+Permiten que los usuarios suban sus creaciones, y que el resto de usuarios de la aplicación puedan consultarlas y valorarlas.
 
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Germán  | H / 21   | Estudiante  | Avanzada      | Extrovertido | Windows      | A 
+| Isaac  | H / 26   | Estudiante  | Avanzada      | Extrovertido       | Web        | A 
+| Julián  | H / 21  | Estudiante     | Avanzada        | Emocional    | Windows    | B 
+| Pepelu  | H / 18   | Estudiante  | Avanzada        | Racional     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
-
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Para este apartado, hemos usado la herramienta Maze (proporcionada por el profesor), en la que hemos incluido un primer apartado con preguntas orientadas a conocer los gustos/preferencias del usuario y un segundo bloque donde hemos preparado para que los usuarios realicen varias tareas dentro de los proyectos a estudiar.
+En nuestro caso, las tareas son "Realizar Registro" y "Reservar un nuevo Taller" y por otro lado, para el otro proyecto son "Realizar una publicación" y "Dar me gusta a una publicación".
 
 
 
@@ -235,9 +234,7 @@ Que empieza en un pantalla de carga, que al pulsar accede a la página de Inicio
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). 
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
 
