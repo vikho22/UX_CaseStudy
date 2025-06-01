@@ -257,7 +257,7 @@ Como puntos negativos podríamos destacar que carece de un sistema de registro e
 
 El uso de este tipo de cuestionario nos ha parecido bastante interesante y a la postre representativo para obtener una “calificación” final sobre un sitio web. Nos ha permitido entender los gustos y necesidades de los usuarios implicados para intentar mejorar los sistemas que hemos estudiado, tanto el nuestro como el de nuestros compañeros del grupo Pizza-con-curry.
 
-El resto del Usability Report se encuentra en el siguiente ![archivo](P4/Briefing Report Tipo B.pdf)
+El resto del Usability Report se encuentra en el siguiente ![archivo](P4/BriefingReportTipoB.pdf)
 
 
 <br>
