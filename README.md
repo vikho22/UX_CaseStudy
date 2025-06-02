@@ -258,7 +258,7 @@ El resto del Usability Report se encuentra en el siguiente ![archivo](P4/Briefin
 ## Conclusiones finales & Valoración de las prácticas
 
 
-Participar en el proceso de diseño utilizando la metodología UX ha sido una vivencia formativa y estimulante. Durante las distintas etapas de las prácticas, tuvimos la oportunidad de poner en marcha diversas herramientas y métodos que nos ayudaron a interpretar con mayor claridad las expectativas y hábitos de quienes utilizarán nuestra plataforma "Cooking From Home".
+Participar en el proceso de diseño utilizando la metodología UX ha sido una vivencia formativa y estimulante. Durante las distintas etapas de las prácticas, tuvimos la oportunidad de poner en marcha diversas herramientas y métodos que nos ayudaron a interpretar con mayor claridad las expectativas y hábitos de quienes utilizarán nuestra plataforma "GranadaCooking".
 
 A lo largo del proyecto, hemos podido detectar y resolver varios aspectos clave que influían negativamente en la experiencia del usuario. Gracias a técnicas como los cuestionarios SUS, entre otros, obtuvimos información valiosa que nos permitió tomar decisiones fundamentadas y mejorar progresivamente el diseño.
 
